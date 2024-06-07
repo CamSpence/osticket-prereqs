@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 </p>
 <p>
-Let' name our VM "vm-osticket".
+Let's name our VM "vm-osticket".
 </p>
 <img src="https://user-images.githubusercontent.com/142059616/261185136-38673ca8-758b-46e2-aa6c-84b84cc58980.png" height="60%" width="60%" alt="Creating a virtual machine"/>
 Select the 4vcpu option for the size for optimal performance.
