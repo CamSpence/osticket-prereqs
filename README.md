@@ -50,7 +50,8 @@ Create any username and password of your choice. Click "Review + Create".
 <p>
 Go to the virtual Machine that was just created and copy the Public IP address. You will find this under the VMs overview page. 
 </p>
-<p>Open the remote desktop application and paste the IP address. Then you enter your log in information from earlier.  
+<p>Open the remote desktop application and paste the IP address. Then you enter your log in information from earlier.
+</p>
   <img src="https://user-images.githubusercontent.com/142059616/261189891-ff074ff6-952e-4eb5-b53f-a45ba5e5172a.png" height ="20% "width="50%" alt="Remote Desktop"/>
  <p>You have now successfully created a Virtual Machine!!</p>
 <img src="https://user-images.githubusercontent.com/142059616/261193321-14204893-87fb-4a16-b8a3-98555fe5c742.png" height="40%" width="50%"/>
@@ -93,9 +94,6 @@ Go to the virtual Machine that was just created and copy the Public IP address. 
 - Click "Execute" to start the configuration process.
 - Once completed, click "Finish".
 <p align="center">
-<img src="https://i.imgur.com/J6sJ3D5.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/TYXyZre.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/NeKMEJo.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <hr>
 
